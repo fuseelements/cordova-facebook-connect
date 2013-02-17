@@ -6,7 +6,7 @@
 
 	<name>FacebookConnect</name>
 
-	<asset src="www/FacebookConnect.js" target="FacebookConnect.js" />
+	<asset src="www/plugins/js/FacebookConnect.js" target="/plugins/js/FacebookConnect.js" />
 
 	<!-- android -->
 	<platform name="android">
