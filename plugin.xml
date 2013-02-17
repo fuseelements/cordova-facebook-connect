@@ -36,7 +36,7 @@
 
 	<!-- ios -->
 	<platform name="ios">
-		<plugins-plist key="FacebookConnect" />
+		<plugins-plist key="FacebookConnect" string="FacebookConnect" />
 
 		<resource-dir src="FacebookSDK" />
 
